@@ -1,61 +1,61 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model h
+  - Modeling h
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Algorithm e
+  - Syntax e
+  - Semantics k
+  - Abstraction h
+  - Paradigm h
+  - Programm u
+  - Programming paradigm 
+  - Programming language e
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Module k
+  - Library u
+  - Package u
+  - Component u
+  - Framework h
+  - Platform k
+  - Source code k
+  - Object code h
+  - Machine code h
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
-  - Data flow
+  - Data flow h
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) k
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant h
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method u
+  - Class u
   - Prototype
-  - Event
+  - Event h
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops u
   - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
+  - Regular expression k
+  - Interface u
+  - Namespaces k
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -105,16 +105,16 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure h
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
+  - Enum k
+  - Instance h
+  - Object u
+  - Collection h
   - Set
   - Hash table
-  - Linked list
+  - Linked list k
   - Doubly list
   - Unrolled list
   - Circular list
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON h
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -153,7 +153,7 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
@@ -208,17 +208,17 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
+  - Interrupts h 
+  - Drivers k
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux k
+  - Unix k
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows k
   - Real-time OS
   - Embedded OS
 - Standards
