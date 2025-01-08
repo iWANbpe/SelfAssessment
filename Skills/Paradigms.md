@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: k
+  - Procedural programming: 🎓 known
   - Imperative programming
-  - Structured programming: h
+  - Structured programming: 🎓 known
   - Non-structured programming
-  - Functional programming: h
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming: u
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming: h
+  - Asynchronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -25,26 +25,26 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor: k
-  - Operator `new`: u
-  - Static method: k
-  - Method: u
-  - Async method: h
-  - Getters, Setters: u
-  - Public fields: u
-  - Private fields: u
-  - Field declarations: u
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
   - Inheritance
-  - Parent class: k
-  - Polymorphism: k
-  - Abstract class: k
-  - Interface: k
-  - Encapsulation: h
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 👂 heard
   - Hidden class
   - Object form
-  - Instance: k
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,8 +64,8 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton: h
-  - Factory Method: h
+  - Singleton: 🖐️ used
+  - Factory Method: 🎓 known
   - Abstract Factory
   - Adapter
   - Observer
@@ -81,7 +81,7 @@
   - Prototype
   - Composite
   - Decorator
-  - Flyweight
+  - Flyweight: 🖐️ used
   - Mediator
   - Memento
   - Template Method
