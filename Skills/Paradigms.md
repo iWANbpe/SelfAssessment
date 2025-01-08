@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming k
+  - Procedural programming: k
   - Imperative programming
-  - Structured programming k
+  - Structured programming: k
   - Non-structured programming
-  - Functional programming h
+  - Functional programming: h
   - Prototype-based programming
-  - Object-oriented programming u
+  - Object-oriented programming: u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming k
+  - Asynchronous programming: k
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method h
-  - Getters, Setters u
-  - Public fields u
-  - Private fields u
-  - Field declarations u
+  - Constructor: u
+  - Operator `new`: u
+  - Static method: u
+  - Method: u
+  - Async method: h
+  - Getters, Setters: u
+  - Public fields: u
+  - Private fields: u
+  - Field declarations: u
   - Inheritance
-  - Parent class u
-  - Polymorphism u
-  - Abstract class u
+  - Parent class: u
+  - Polymorphism: u
+  - Abstract class: u
   - Interface
-  - Encapsulation k
+  - Encapsulation: k
   - Hidden class
   - Object form
-  - Instance u
+  - Instance: u
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,8 +64,8 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton u
-  - Factory Method h
+  - Singleton: u
+  - Factory Method: h
   - Abstract Factory
   - Adapter
   - Observer
@@ -81,7 +81,7 @@
   - Prototype
   - Composite
   - Decorator
-  - Flyweight u
+  - Flyweight: u
   - Mediator
   - Memento
   - Template Method
