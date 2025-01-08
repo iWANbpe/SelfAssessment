@@ -1,61 +1,61 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: h
-  - Modeling: h
+  - Model: 👂 heard
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm: e
-  - Syntax: e
-  - Semantics: k
-  - Abstraction: h
-  - Paradigm: h
-  - Programm: u
-  - Programming paradigm 
-  - Programming language: e
+  - Algorithm: 🙋 explained
+  - Syntax: 🙋 explained
+  - Semantics: 🎓 known
+  - Abstraction: 👂 heard
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
+  - Programming paradigm
+  - Programming language: 🙋 explained
   - Contract
-  - Module: k
-  - Library: u
-  - Package: u
-  - Component: u
-  - Framework: k
-  - Platform: k
-  - Source code: k
-  - Object code: h
-  - Machine code: h
+  - Module: 🎓 known
+  - Library: 🖐️ used
+  - Package: 🖐️ used
+  - Component: 🖐️ used
+  - Framework: 🎓 known
+  - Platform: 🎓 known
+  - Source code: 🎓 known
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering: h
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
-  - Data flow: h
+  - Data flow: 👂 heard
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY): k
+  - Don't repeat yourself (DRY): 🎓 known
   - KISS principle
 - Syntax and concepts
-  - Value: u
-  - Identifier: u
-  - Variable: u
-  - Constant: h
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 👂 heard
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function: u
+  - Function: 🖐️ used
   - Procedure
-  - Method: u
-  - Class: u
+  - Method: 🖐️ used
+  - Class: 🖐️ used
   - Prototype
-  - Event: h
+  - Event: 👂 heard
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops: u
+  - Loops: 🖐️ used
   - Assignment
-  - Regular expression: k
-  - Interface: u
-  - Namespaces: k
+  - Regular expression: 🎓 known
+  - Interface: 🖐️ used
+  - Namespaces: 🎓 known
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -103,22 +103,22 @@
   - Monad
   - Monoid
   - Generator
-  - Coroutine: k
+  - Coroutine: 🎓 known
 - Data structures
-  - Array: u
-  - Structure: h
+  - Array: 🖐️ used
+  - Structure: 👂 heard
   - Record
-  - Enum: k
-  - Instance: h
-  - Object: u
-  - Collection: h
+  - Enum: 🎓 known
+  - Instance: 👂 heard
+  - Object: 🖐️ used
+  - Collection: 👂 heard
   - Set
   - Hash table
-  - Linked list: k
+  - Linked list: 🎓 known
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue: u
+  - Queue: 🖐️ used
   - Stack
   - Deque
   - Tree
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON: h
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler: u
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -153,7 +153,7 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine: h
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git: u
-  - Github: u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
@@ -208,17 +208,17 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts: h 
-  - Drivers: k
+  - Interrupts: 👂 heard
+  - Drivers: 🎓 known
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux: k
-  - Unix: k
+  - Linux: 🎓 known
+  - Unix: 🎓 known
   - BSD
-  - MacOS: k
-  - Windows: k
+  - MacOS: 🎓 known
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards

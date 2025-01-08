@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: k
-  - `try..catch`: h
+  - Event loop: 🎓 known
+  - `try..catch`: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,10 +22,10 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks: k
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise: h
+  - Promise: 👂 heard
   - Async/await
   - Future
   - Deferred
