@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop: k
-  - `try..catch`
+  - `try..catch`: h
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,7 +22,7 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks: h
+  - Callbacks: k
   - Callback-last-error-first
   - Thenable
   - Promise: h

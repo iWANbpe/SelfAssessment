@@ -3,7 +3,7 @@
 - Theory
   - Procedural programming: k
   - Imperative programming
-  - Structured programming: h
+  - Structured programming: k
   - Non-structured programming
   - Functional programming: h
   - Prototype-based programming
@@ -25,11 +25,11 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition : h
 - OOP basics
-  - Constructor: k
+  - Constructor: u
   - Operator `new`: u
-  - Static method: k
+  - Static method: u
   - Method: u
   - Async method: h
   - Getters, Setters: u
@@ -37,14 +37,14 @@
   - Private fields: u
   - Field declarations: u
   - Inheritance
-  - Parent class: k
-  - Polymorphism: k
-  - Abstract class: k
-  - Interface: k
+  - Parent class: u
+  - Polymorphism: u
+  - Abstract class: u
+  - Interface: u
   - Encapsulation: h
   - Hidden class
   - Object form
-  - Instance: k
+  - Instance: u
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,8 +64,8 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton: h
-  - Factory Method: h
+  - Singleton: u
+  - Factory Method: k
   - Abstract Factory
   - Adapter
   - Observer
@@ -81,7 +81,7 @@
   - Prototype
   - Composite
   - Decorator
-  - Flyweight
+  - Flyweight: u
   - Mediator
   - Memento
   - Template Method

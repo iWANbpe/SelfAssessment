@@ -17,7 +17,7 @@
   - Library: u
   - Package: u
   - Component: u
-  - Framework: h
+  - Framework: k
   - Platform: k
   - Source code: k
   - Object code: h
@@ -103,7 +103,7 @@
   - Monad
   - Monoid
   - Generator
-  - Coroutine
+  - Coroutine: k
 - Data structures
   - Array: u
   - Structure: h
@@ -118,7 +118,7 @@
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
+  - Queue: u
   - Stack
   - Deque
   - Tree
