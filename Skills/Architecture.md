@@ -2,8 +2,8 @@
 
 - Application structure
   - Modularity
-  - Components h
-  - Directories h
+  - Components: h
+  - Directories: h
   - GRASP
   - SOLID
   - GoF patterns

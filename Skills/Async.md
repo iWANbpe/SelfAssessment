@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
+  - Event loop: k
   - `try..catch`
   - Non-blocking
   - Async I/O
@@ -22,10 +22,10 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks h
+  - Callbacks: h
   - Callback-last-error-first
   - Thenable
-  - Promise h
+  - Promise: h
   - Async/await
   - Future
   - Deferred
